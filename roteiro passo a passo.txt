@@ -1,0 +1,3 @@
+1º) Acesso o caminho no prompt usando cd\
+2º) cd C:\Users\massa\OneDrive\Documentos\package-folder
+3º) python -m pip install -e .
